@@ -17,7 +17,7 @@ jobs:
       - name: Update Timestamp
         run: |
           DEPLOYED_ON=$(date -u +'%Y-%m-%d %H:%M UTC')
-          sed -i 's/.*/**'$DEPLOYED_ON'**/' README.md
+          sed -i "s/.*/**$DEPLOYED_ON**/" README.md
 
       - name: Commit Changes
         run: |
