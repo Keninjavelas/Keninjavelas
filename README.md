@@ -70,11 +70,10 @@ Coming from a background in **Edge-AI and Quantum Logic**, I bring a unique "Res
 
 | **LAYER** | **TOOLS OF CHOICE** | **PROFICIENCY** |
 | :--- | :--- | :--- |
-| **Cloud** | AWS, GCP, Cloudflare | <img src="https://progress-bar.dev/90/?scale=100&title=Expertise&color=58A6FF&width=150" /> |
-| **Infrastructure** | Terraform, Docker, GitHub Actions | <img src="https://progress-bar.dev/85/?scale=100&title=Expertise&color=7B42BC&width=150" /> |
-| **Languages** | Python, Go, Shell Scripting | <img src="https://progress-bar.dev/80/?scale=100&title=Expertise&color=2496ED&width=150" /> |
-| **Specialized** | Hyperledger Fabric, Qiskit, IPFS | <img src="https://progress-bar.dev/75/?scale=100&title=Expertise&color=6e5494&width=150" /> |
-
+| **Cloud** | AWS, GCP, Cloudflare | ![90%](https://img.shields.io/badge/90%25-█████████░-58A6FF?style=flat-square) |
+| **Infrastructure** | Terraform, Docker, GitHub Actions | ![85%](https://img.shields.io/badge/85%25-████████░░-7B42BC?style=flat-square) |
+| **Languages** | Python, Go, Shell Scripting | ![80%](https://img.shields.io/badge/80%25-████████░░-2496ED?style=flat-square) |
+| **Specialized** | Hyperledger Fabric, Qiskit, IPFS | ![75%](https://img.shields.io/badge/75%25-███████░░░-6e5494?style=flat-square) |
 ---
 
 ## 🧠 Engineering Philosophy
