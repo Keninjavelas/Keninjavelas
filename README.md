@@ -52,14 +52,8 @@ Coming from a background in **Edge-AI and Quantum Logic**, I bring a unique "Res
 * **The Trade-off:** Opted for an off-chain storage model (IPFS) to maintain a lightweight, high-performance ledger, sacrificing "all-on-chain" simplicity for enterprise scalability.
 * `Hyperledger Fabric` `Docker` `Go` `IPFS` `Distributed Systems`
 
-### 🪖 03 | Specialized Research: Edge-AI
-**[Tactical Edge-AI Detection Systems](https://github.com/Keninjavelas)**
-* **The Focus:** Developing low-latency situational awareness for high-stakes environments where cloud-roundtrip latency is fatal.
-* **The Engineering:** Developed Computer Vision algorithms optimized for **Edge-native inferencing**, moving the compute closer to the sensor.
-* **The Trade-off:** Optimized for local inferencing speed over neural network depth to achieve millisecond threat-detection triggers in real-time.
-* `Edge-AI` `Computer Vision` `System Latency Optimization` `Situational Awareness`
 
-### ⚛️ 04 | High-Dimensional Simulation
+### ⚛️ 03 | High-Dimensional Simulation
 **[Quantum Feedback Simulator](https://github.com/Keninjavelas/Quantum-Feedback-Simulator)**
 * **The Challenge:** Modeling and visualizing deterministic feedback loops in quantum states.
 * **The Solution:** A **Qiskit-based** simulation engine featuring automated Bloch-sphere rendering and structured CSV/JSON experiment logging.
