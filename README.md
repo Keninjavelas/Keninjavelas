@@ -1,13 +1,18 @@
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Keninjavelas/Keninjavelas/main/assets/aura.svg" width="100%" />
+</p>
 
 <div align="center">
 
 # 🖥️ [ KENINJAVELAS : CLOUD_ARCHITECT ]
 > **Infrastructure as Code (IaC) • Edge-AI Tactical Research • Distributed Engineering**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=ORCHESTRATING+SCALABLE+INFRASTRUCTURE;DEVELOPING+EDGE-AI+TACTICAL+LOGIC;AUTOMATING+MULTI-CLOUD+ENVIRONMENTS" alt="Typing SVG" />
+<!-- 👁 PROFILE VIEW COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Keninjavelas&label=PROFILE+SCANS&color=58A6FF&style=for-the-badge" />
+</p>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=ORCHESTRATING+SCALABLE+INFRASTRUCTURE;DEVELOPING+EDGE-AI+TACTICAL+LOGIC;AUTOMATING+MULTI-CLOUD+ENVIRONMENTS" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=MANAGING+INFRASTRUCTURE+AS+CODE;ORCHESTRATING+MULTI-CLOUD+ENVIRONMENTS;PIONEERING+EDGE-AI+TACTICAL+LOGIC;OPTIMIZING+SYSTEM+LATENCY;BUILDING+IN+PUBLIC" alt="Typing SVG" />
 
@@ -52,14 +57,15 @@ Coming from a background in **Edge-AI and Quantum Logic**, I bring a unique "Res
 * **The Trade-off:** Opted for an off-chain storage model (IPFS) to maintain a lightweight, high-performance ledger, sacrificing "all-on-chain" simplicity for enterprise scalability.
 * `Hyperledger Fabric` `Docker` `Go` `IPFS` `Distributed Systems`
 
-
 ### ⚛️ 03 | High-Dimensional Simulation
 **[Quantum Feedback Simulator](https://github.com/Keninjavelas/Quantum-Feedback-Simulator)**
 * **The Challenge:** Modeling and visualizing deterministic feedback loops in quantum states.
 * **The Solution:** A **Qiskit-based** simulation engine featuring automated Bloch-sphere rendering and structured CSV/JSON experiment logging.
 * **The Trade-off:** Prioritized visualization clarity and data exportability for research analysis over raw computational throughput.
 * `Python` `Qiskit` `Quantum Logic` `Data Visualization`
+
 ---
+
 ## ⚙️ The Technical Arsenal
 
 | **LAYER** | **TOOLS OF CHOICE** | **PROFICIENCY** |
@@ -68,6 +74,7 @@ Coming from a background in **Edge-AI and Quantum Logic**, I bring a unique "Res
 | **Infrastructure** | Terraform, Docker, GitHub Actions | ![85%](https://img.shields.io/badge/85%25-████████░░-7B42BC?style=flat-square) |
 | **Languages** | Python, Go, Shell Scripting | ![80%](https://img.shields.io/badge/80%25-████████░░-2496ED?style=flat-square) |
 | **Specialized** | Hyperledger Fabric, Qiskit, IPFS | ![75%](https://img.shields.io/badge/75%25-███████░░░-6e5494?style=flat-square) |
+
 ---
 
 ## 🧠 Engineering Philosophy
@@ -109,6 +116,7 @@ Coming from a background in **Edge-AI and Quantum Logic**, I bring a unique "Res
 * `[01]` **IaC Modularity:** Engineering agnostic Terraform providers to eliminate multi-cloud provider lock-in.
 * `[02]` **Pipeline Hardening:** Automating DevSecOps audits and security-header injection within CI/CD workflows.
 * `[03]` **Deep Observability:** Researching eBPF-based instrumentation for kernel-level system telemetry and monitoring.
+
 <br />
 
 <div align="center">

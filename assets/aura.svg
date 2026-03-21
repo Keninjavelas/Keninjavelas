@@ -1,0 +1,111 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- 🎨 CINEMATIC GRADIENT -->
+    <linearGradient id="inkGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="35%" stop-color="#8C7A5A"/>
+      <stop offset="60%" stop-color="#F5E6C8"/>
+      <stop offset="80%" stop-color="#EAD3A7"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+
+    <!-- ⚡ CHAOTIC ENERGY -->
+    <filter id="warp">
+      <feTurbulence type="fractalNoise" baseFrequency="0.02" numOctaves="2" seed="9">
+        <animate attributeName="baseFrequency"
+          dur="2s"
+          values="0.02;0.04;0.015;0.05;0.02"
+          repeatCount="indefinite"/>
+      </feTurbulence>
+      <feDisplacementMap in="SourceGraphic" scale="50"/>
+    </filter>
+
+  </defs>
+
+  <!-- ⚫ CHARGE BASE -->
+  <rect width="1200" height="260" fill="#000000" opacity="0.9">
+    <animate attributeName="opacity"
+      dur="2.5s"
+      values="0.9;0.7;0.95;0.6;0.9"
+      repeatCount="indefinite"/>
+  </rect>
+
+  <!-- 💥 IMPACT FLASH -->
+  <rect width="1200" height="260" fill="#ffffff" opacity="0">
+    <animate attributeName="opacity"
+      dur="2.5s"
+      values="0;0;1;0;0"
+      repeatCount="indefinite"/>
+  </rect>
+
+  <!-- 🔥 ENERGY FIELD -->
+  <rect width="1200" height="260" fill="url(#inkGrad)" filter="url(#warp)" opacity="0.8"/>
+
+  <!-- 🖌️ MAIN INK STROKES -->
+  <g stroke="#F5E6C8" stroke-width="8" fill="none" opacity="0.95">
+
+    <path d="M0 70 Q300 10 600 90 T1200 50">
+      <animate attributeName="d"
+        dur="2.5s"
+        values="
+        M0 70 Q300 10 600 90 T1200 50;
+        M0 90 Q300 140 600 40 T1200 100;
+        M0 70 Q300 10 600 90 T1200 50"
+        repeatCount="indefinite"/>
+    </path>
+
+    <path d="M0 170 Q400 100 800 210 T1200 160">
+      <animate attributeName="d"
+        dur="2.5s"
+        values="
+        M0 170 Q400 100 800 210 T1200 160;
+        M0 140 Q400 240 800 120 T1200 200;
+        M0 170 Q400 100 800 210 T1200 160"
+        repeatCount="indefinite"/>
+    </path>
+
+  </g>
+
+  <!-- 💥 INK EXPLOSION -->
+  <g fill="#EAD3A7" opacity="0.25">
+    <circle cx="350" cy="130" r="40">
+      <animate attributeName="r"
+        dur="2.5s"
+        values="20;80;40"
+        repeatCount="indefinite"/>
+    </circle>
+    <circle cx="900" cy="150" r="50">
+      <animate attributeName="r"
+        dur="2.5s"
+        values="30;90;50"
+        repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- ⚡ LIGHTNING BURSTS -->
+  <g stroke="#ffffff" stroke-width="3" opacity="0.9">
+    <line x1="250" y1="0" x2="320" y2="260">
+      <animate attributeName="opacity"
+        dur="2.5s"
+        values="0;0;1;0;0"
+        repeatCount="indefinite"/>
+    </line>
+    <line x1="800" y1="0" x2="760" y2="260">
+      <animate attributeName="opacity"
+        dur="2.5s"
+        values="0;0;1;0;0"
+        repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <!-- 🌫️ DUST FADE -->
+  <rect width="1200" height="260" fill="#F5E6C8" opacity="0.05">
+    <animate attributeName="opacity"
+      dur="2.5s"
+      values="0.03;0.08;0.02;0.1;0.05"
+      repeatCount="indefinite"/>
+  </rect>
+
+</svg>
