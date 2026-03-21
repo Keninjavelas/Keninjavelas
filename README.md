@@ -30,6 +30,11 @@
 </p>
 
 </div>
+<p align="center">
+  <a href="https://github.com/Keninjavelas/Keninjavelas/raw/main/Resume.pdf">
+    <img src="https://img.shields.io/badge/📄_RESUME-DOWNLOAD-0D1117?style=for-the-badge&labelColor=58A6FF" />
+  </a>
+</p>
 
 ---
 
