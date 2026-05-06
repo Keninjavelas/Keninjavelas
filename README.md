@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Keninjavelas/Keninjavelas/main/assets/aura.svg" width="100%" alt="Aura Banner" />
+  <img
+    src="https://raw.githubusercontent.com/Keninjavelas/Keninjavelas/main/assets/aura.svg"
+    width="100%"
+    alt="Aura Banner"
+  />
 </p>
 
 <div align="center">
@@ -9,9 +13,24 @@
 > **Infrastructure as Code (IaC) • Edge-AI Tactical Research • Distributed Engineering**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Keninjavelas&label=PROFILE+SCANS&color=58A6FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Keninjavelas?style=for-the-badge&color=58A6FF&labelColor=0D1117" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Keninjavelas?style=for-the-badge&color=7B42BC&labelColor=0D1117" alt="Stars" />
+
+  <img
+    src="https://komarev.com/ghpvc/?username=Keninjavelas&label=PROFILE+SCANS&color=58A6FF&style=for-the-badge"
+    alt="Profile Views"
+  />
+
+  <a href="https://github.com/Keninjavelas/Keninjavelas/raw/main/Resume.pdf">
+    <img
+      src="https://img.shields.io/badge/📄_RESUME-DOWNLOAD-0D1117?style=for-the-badge&labelColor=58A6FF"
+      alt="Resume"
+    />
+  </a>
+
+  <img
+    src="https://img.shields.io/github/followers/Keninjavelas?style=for-the-badge&color=58A6FF&labelColor=0D1117"
+    alt="Followers"
+  />
+
 </p>
 
 <p align="center">
@@ -22,15 +41,17 @@
 </p>
 
 <p align="center">
+
   <img
     src="https://img.shields.io/badge/Main_Stack-AWS%20%7C%20Terraform%20%7C%20Docker-0D1117?style=for-the-badge&labelColor=58A6FF"
     alt="Main Stack"
   />
-  
+
   <img
     src="https://img.shields.io/badge/Research-Edge--AI%20%7C%20Quantum-0D1117?style=for-the-badge&labelColor=7B42BC"
     alt="Research"
   />
+
 </p>
 
 <p align="center">
@@ -48,10 +69,23 @@
 # 🛰️ SYSTEM STATUS DASHBOARD
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-2ea44f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UPTIME-99.99%25-58A6FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SECURITY-HARDENED-7B42BC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PIPELINES-AUTOMATED-orange?style=for-the-badge" />
+
+  <img
+    src="https://img.shields.io/badge/STATUS-OPERATIONAL-2ea44f?style=for-the-badge"
+  />
+
+  <img
+    src="https://img.shields.io/badge/UPTIME-99.99%25-58A6FF?style=for-the-badge"
+  />
+
+  <img
+    src="https://img.shields.io/badge/SECURITY-HARDENED-7B42BC?style=for-the-badge"
+  />
+
+  <img
+    src="https://img.shields.io/badge/PIPELINES-AUTOMATED-orange?style=for-the-badge"
+  />
+
 </p>
 
 ---
@@ -72,7 +106,7 @@ $ deployment_mode
 Production
 
 $ philosophy
-"If infrastructure is repeated, it must be automated."
+"Reliable infrastructure should feel invisible."
 ```
 
 As a **Systems Engineer**, my mission is to architect the **Invisible Cloud** — infrastructure that disappears into reliability, scalability, and deterministic automation.
@@ -84,7 +118,9 @@ With a background in **Edge-AI and Quantum Logic**, I bridge theoretical complex
 # ⚙️ TECHNICAL ARSENAL
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,linux,bash,python,go,githubactions,cloudflare,mysql" />
+  <img
+    src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,linux,bash,python,go,githubactions,cloudflare,mysql"
+  />
 </p>
 
 | LAYER | STACK | PROFICIENCY |
@@ -99,6 +135,9 @@ With a background in **Edge-AI and Quantum Logic**, I bridge theoretical complex
 # 🏗️ THE CLOUD LAB
 
 ## ☁️ AWS Automated Production Environment
+
+### 🔗 Repository
+[Keninjavelas/AWS-Static-Website](https://github.com/Keninjavelas/AWS-Static-Website)
 
 ### Challenge
 Architect a globally distributed secure web tier with zero manual configuration.
@@ -119,6 +158,9 @@ Implemented **Origin Access Identity (OAI)** to ensure complete bucket isolation
 
 ## 🔗 CropChain: Distributed Traceability Ledger
 
+### 🔗 Repository
+[Keninjavelas/cropchain-project](https://github.com/Keninjavelas/cropchain-project)
+
 ### Challenge
 Build immutable supply-chain auditing without blockchain storage bloat.
 
@@ -137,6 +179,9 @@ Selected hybrid off-chain storage for scalability and performance instead of pur
 ---
 
 ## ⚛️ Quantum Feedback Simulator
+
+### 🔗 Repository
+[Keninjavelas/Quantum-Feedback-Simulator](https://github.com/Keninjavelas/Quantum-Feedback-Simulator)
 
 ### Challenge
 Model deterministic feedback loops in quantum states.
@@ -157,33 +202,39 @@ Prioritized visualization clarity and research exportability over raw simulation
 # 📡 LIVE SYSTEM METRICS
 
 <p align="center">
+
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keninjavelas&theme=tokyonight"
-    width="49%"
+    width="48%"
     alt="GitHub Stats"
   />
 
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Keninjavelas&theme=tokyonight"
-    width="49%"
+    width="48%"
     alt="Top Languages"
   />
+
 </p>
 
 <p align="center">
+
   <img
     src="https://streak-stats.demolab.com?user=Keninjavelas&theme=tokyonight&hide_border=true"
-    width="100%"
+    width="97%"
     alt="GitHub Streak"
   />
+
 </p>
 
 <p align="center">
+
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keninjavelas&theme=tokyonight"
-    width="100%"
+    width="97%"
     alt="Profile Summary"
   />
+
 </p>
 
 ---
@@ -191,28 +242,19 @@ Prioritized visualization clarity and research exportability over raw simulation
 # 📈 CONTRIBUTION TELEMETRY
 
 <p align="center">
+
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Keninjavelas&theme=tokyo-night&hide_border=true"
-    width="100%"
+    width="97%"
   />
-</p>
 
----
-
-# 🐍 CONTRIBUTION MATRIX
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Keninjavelas&theme=tokyo-night&hide_border=true"
-    width="100%"
-  />
 </p>
 
 ---
 
 # 🧠 ENGINEERING PHILOSOPHY
 
-- **Automation First** → Repeated tasks must become pipelines.
+- **Automation First** → Repeated tasks become pipelines.
 - **Security by Default** → Least privilege is mandatory.
 - **Documentation = Infrastructure** → READMEs are operational assets.
 - **Observability is Survival** → Unmonitored systems are already failing.
@@ -233,10 +275,12 @@ Prioritized visualization clarity and research exportability over raw simulation
 # 🏆 OPERATIONAL ACHIEVEMENTS
 
 <p align="center">
+
   <img
     src="https://github-profile-trophy.vercel.app/?username=Keninjavelas&theme=tokyonight&no-frame=true&row=1&column=6"
-    width="100%"
+    width="97%"
   />
+
 </p>
 
 ---
@@ -244,17 +288,25 @@ Prioritized visualization clarity and research exportability over raw simulation
 # 📡 CONNECTION PROTOCOLS
 
 <p align="center">
+
   <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
   </a>
 
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
   </a>
 
   <a href="https://github.com/Keninjavelas/discussions">
-    <img src="https://img.shields.io/badge/DISCUSSIONS-24292e?style=for-the-badge&logo=github&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/DISCUSSIONS-24292e?style=for-the-badge&logo=github&logoColor=white"
+    />
   </a>
+
 </p>
 
 ---
