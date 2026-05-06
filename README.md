@@ -129,22 +129,22 @@ Coming from a background in **Edge-AI and Quantum Logic**, I bring a unique "Res
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Keninjavelas&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keninjavelas&theme=tokyonight"
+    width="49%"
     alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Keninjavelas&theme=tokyonight"
+    width="49%"
+    alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keninjavelas&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    width="49%"
-    alt="Top Languages"
-  />
-
-  <img
     src="https://streak-stats.demolab.com?user=Keninjavelas&theme=tokyonight&hide_border=true"
-    width="49%"
+    width="100%"
     alt="GitHub Streak"
   />
 </p>
