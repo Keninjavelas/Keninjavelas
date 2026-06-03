@@ -26,10 +26,6 @@
     />
   </a>
 
-  <img
-    src="https://img.shields.io/github/followers/Keninjavelas?style=for-the-badge&color=58A6FF&labelColor=0D1117"
-    alt="Followers"
-  />
 
 </p>
 
@@ -43,7 +39,7 @@
 <p align="center">
 
   <img
-    src="https://img.shields.io/badge/Main_Stack-AWS%20%7C%20Terraform%20%7C%20Docker-0D1117?style=for-the-badge&labelColor=58A6FF"
+    src="https://img.shields.io/badge/Main_Stack-AWS%20%7C%20Terraform%20%7C%20Docker%20%7C%20GCP-0D1117?style=for-the-badge&labelColor=58A6FF"
     alt="Main Stack"
   />
 
